@@ -1,18 +1,15 @@
 npscipy-binaries
 ================
 
-Binaries for numpy/scipy on 64bit debian.  Includes blas/lapack/atlas/gfortran archive and so files.
+Compiled packages for NumPy and SciPy. Currently the following versions are
+supported:
 
+  * NumPy 1.8.1
+  * SciPy 0.14.0
 
-For information about Scipy/Numpy please refer to:
+These packages were compiled on a virtual machine that matched Heroku's
+runtime environment. The virtual machine ran Ubuntu 10.04 LTS (Lucid Lynx)
+with gcc toolchain version 4.4.3 (Ubuntu 4.4.3-4ubuntu5.1).
 
-http://numpy.scipy.org
-http://www.scipy.org
-
-
-For information about BLAS/LAPACK/ATLAS/GFortran please refer to:
-
-http://www.netlib.org/blas
-http://www.netlib.org/lapack
-http://math-atlas.sourceforge.net
-http://gcc.gnu.org/wiki/GFortran
+For older binaries, please take a look at
+https://github.com/dbrgn/npscipy-binaries
