@@ -6,6 +6,7 @@ supported:
 
 NumPy:
   * 1.8.1
+  * 1.8.2
   * 1.9.0
 
 SciPy:
