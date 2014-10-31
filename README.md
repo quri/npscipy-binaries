@@ -5,6 +5,7 @@ Compiled packages for NumPy and SciPy. Currently the following versions are
 supported:
 
 NumPy:
+  * 1.7.2
   * 1.8.1
   * 1.8.2
   * 1.9.0
