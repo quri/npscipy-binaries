@@ -12,6 +12,7 @@ NumPy:
   * 1.9.0
 
 SciPy:
+  * 0.13.3
   * 0.14.0
 
 These packages were compiled on a virtual machine that matched Heroku's
